@@ -5,7 +5,7 @@ I'm Asher Fisher a Full Stack Web Developer
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @JiveHire
+- 🔭 I’m currently working at @JiveHire (contractor)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: osher636@gmail.com.
 
